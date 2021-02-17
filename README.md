@@ -1,9 +1,13 @@
 # MQTT_NodeJSAndMYSQL
 I made an MQTT project Backend side with using NodeJS and MYSQL first time in my life. Nodejs and MYSQL is really affective and impresive for me. Because even it is first time for me to use this technology after making some search I easily adapted and made such a great MQTT Project Backend Side. This project is just an beginning for me. 
 
-## Web
+## Node
 
-<img src="GifFiles/webproject.gif">
+<img src="GifFiles/nodejs.gif">
+
+## MYSQL
+
+<img src="GifFiles/mysql.gif">
 
 
 # Kullanılan Teknolojiler
