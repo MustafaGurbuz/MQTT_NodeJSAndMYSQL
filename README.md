@@ -17,6 +17,11 @@ I made an MQTT project Backend side with using NodeJS and MYSQL first time in my
 - npm i moca mqtt mysql
 - After that you should setup your mysql environment
 - Then you should make it run one by one
+- if you get validator error when you run node broker
+- then comment inside if statement 
+- if ((typeof schema !== 'boolean' && typeof schema !== 'object') || schema === null) {
+    //throw new SchemaError('Expected `schema` to be an object or boolean');
+  }
 - Like node broker | node subscribe | node publisher
 - After a while close publisher one then subscribe one finally broker one
 - When you are done with these process go to mysql and get JSON data
